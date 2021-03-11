@@ -4,7 +4,9 @@
 
 以上实验的实验数据均在名为numpy-的存储库中
 
-有任何问题欢迎发起issue与我交流，或者发送邮件至chinasunyingjian@gmail.com
+有任何问题欢迎在Discussions发帖或发起issue与我交流
+
+我的邮箱chinasunyingjian@gmail.com
 
 推荐采用Google colab 运行实验，方便快捷 https://colab.research.google.com/
 
