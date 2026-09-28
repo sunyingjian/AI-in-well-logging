@@ -1,3 +1,8 @@
+update：
+This repository contains research/experimental code from my student years. Some notebooks may be incomplete or contain known issues and are preserved mainly for reference.
+
+------------------------------------------------------------------------------------------------
+
 这是我的科研实验备份文件夹
 
 如果觉得该项目对你有帮助，请帮我点个star 谢谢！
